@@ -1,0 +1,23 @@
+body{
+    background-color:#a9f04b;
+}
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:blue;
+    background-color:white;
+}
+#sketch_name{
+    color:red;
+}
+#show_sketch{
+    float:right;
+}
+#time{
+    font-size:35px;
+    float:right;
+    margin-right:20px;
+}
+#score{
+    font-size:35px;
+    margin-left:25px;
+}
